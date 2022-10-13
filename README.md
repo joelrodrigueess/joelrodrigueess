@@ -1,7 +1,7 @@
 ### Hi there, I am Joel Rodrigues 👋
 
-- 🔭 I am currently a student of the analysis and systems development course;
-- 🌱 learning HTML, CSS and Javascripy;
+- 🔭 I am currently student of the analysis and systems development course;
+- 🌱 learning HTML, CSS and Javascript;
 - 👯 I’m looking to collaborate on any enterprise, working with front-end.
 - 📫 How to reach me: srjunipulapula@gmail.com
 
